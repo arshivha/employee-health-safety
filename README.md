@@ -36,7 +36,7 @@ pip3 install tesseract-ocr
 ## Running the application 
 
 ```
-git clone https://github.com/arora-72/multiface_recognition_neural_net.git
+git clone https://github.com/arshivha/employee-health-safety.git
 ```
 access the folder via terminal and then execute following line in terminal
 ```
